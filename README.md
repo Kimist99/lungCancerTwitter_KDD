@@ -1,3 +1,3 @@
 # lungCancerTwitter_KDD
 
-R Code for accessing latest tweets about lung cancer biomarkers
+R and Python code for accessing latest tweets about lung cancer biomarkers
